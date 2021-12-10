@@ -8,4 +8,4 @@ ___
 Responsive Website using HTML CSS & JS
 ___
 ### Screen
-![index](imgreadme/FireShot.png)
+![index](imgreadme/fireshot.png)
